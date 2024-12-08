@@ -17,4 +17,4 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/boyama.git
+   git clone https://github.com/diaslmb/boyama.git
