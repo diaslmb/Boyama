@@ -13,7 +13,6 @@
 
 - **Vuforia SDK**: Used for AR object recognition and overlaying 3D models.
 - **Cloud Integration**: Integrated cloud-based solutions for faster data processing and to ensure smooth app performance under heavy load.
-- 
 ## Installation
 
 1. Clone the repository:
