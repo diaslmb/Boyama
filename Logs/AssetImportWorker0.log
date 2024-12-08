@@ -1,0 +1,188 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.22f1 (e1a7f79fd887) revision 14788599'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19043.1288; Version 2009; 64bit' Language: 'ru' Physical Memory: 6058 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.22f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Dakesi/Documents/Unity/Boyama 0.4
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+58363
+Successfully changed project path to: C:/Users/Dakesi/Documents/Unity/Boyama 0.4
+C:/Users/Dakesi/Documents/Unity/Boyama 0.4
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 125.89 ms, found 10 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.22f1 (e1a7f79fd887)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.22f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Dakesi/Documents/Unity/Boyama 0.4/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f91)
+    Vendor:   
+    VRAM:     3962 MB
+    Driver:   27.21.14.6280
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.22f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.22f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.22f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56844
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.22f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004115 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 68.21 ms, found 10 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.127 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3127ms)
+		BeginReloadAssembly (77ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (592ms)
+			LoadAssemblies (73ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (189ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (34ms)
+			SetupLoadedEditorAssemblies (226ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (68ms)
+				BeforeProcessingInitializeOnLoad (11ms)
+				ProcessInitializeOnLoadAttributes (102ms)
+				ProcessInitializeOnLoadMethodAttributes (39ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.019525 seconds.
+Required property 'name' not set (Assets/Vuforia/Editor/Scripts/VuforiaEditorScripts.asmdef)
+Required property 'name' not set (Assets/Vuforia/Scripts/VuforiaScripts.asmdef)
+Required property 'name' not set (Assets/Vuforia/Editor/Scripts/VuforiaEditorScripts.asmdef)
+Required property 'name' not set (Assets/Vuforia/Scripts/VuforiaScripts.asmdef)
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.36 ms, found 10 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Required property 'name' not set (Assets/Vuforia/Editor/Scripts/VuforiaEditorScripts.asmdef)
+Required property 'name' not set (Assets/Vuforia/Scripts/VuforiaScripts.asmdef)
+Mono: successfully reloaded assembly
+- Completed reload, in  6.135 seconds
+Domain Reload Profiling:
+	ReloadAssembly (6136ms)
+		BeginReloadAssembly (338ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (24ms)
+		EndReloadAssembly (5693ms)
+			LoadAssemblies (309ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (435ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (735ms)
+			SetupLoadedEditorAssemblies (2992ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (9ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (869ms)
+				ProcessInitializeOnLoadAttributes (2033ms)
+				ProcessInitializeOnLoadMethodAttributes (67ms)
+				AfterProcessingInitializeOnLoad (12ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.12 seconds
+Refreshing native plugins compatible for Editor in 0.88 ms, found 10 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2195 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.1 MB.
+System memory in use after: 89.2 MB.
+
+Unloading 70 unused Assets to reduce memory usage. Loaded Objects now: 2587.
+Total: 10.233800 ms (FindLiveObjects: 0.356800 ms CreateObjectMapping: 0.094800 ms MarkObjects: 9.648200 ms  DeleteObjects: 0.131800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/TriLib
+  artifactKey: Guid(a35f16f20c2b9474b928c26abc029bab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TriLib using Guid(a35f16f20c2b9474b928c26abc029bab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f243fed8c6268f672fcfafdca327d9f2') in 0.027728 seconds 
+  Import took 0.035615 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 959.515528 seconds.
+  path: Assets/Editor
+  artifactKey: Guid(833e12f1d550f2c4b96eb6fa3a5ea199) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor using Guid(833e12f1d550f2c4b96eb6fa3a5ea199) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d6a53448df94d91551c750326bfb46c') in 0.004820 seconds 
+  Import took 0.009235 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.821900 seconds.
+  path: Assets/Resources
+  artifactKey: Guid(e44c2951917c6b644903d3339b121d60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources using Guid(e44c2951917c6b644903d3339b121d60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '011136e4e25194dc3932e6d98ee1c91c') in 0.004235 seconds 
+  Import took 0.007796 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.073259 seconds.
+  path: Assets/Resources/VuforiaConfiguration.asset
+  artifactKey: Guid(43a52da64f7d3a14f823b981d96917bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/VuforiaConfiguration.asset using Guid(43a52da64f7d3a14f823b981d96917bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd903736db769dd7015e83b754c23458b') in 0.030670 seconds 
+  Import took 0.034500 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 82.304589 seconds.
+  path: Packages/com.unity.xr.management/package.json
+  artifactKey: Guid(a8437ae6df3ab4de78c661f8e1148bbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.xr.management/package.json using Guid(a8437ae6df3ab4de78c661f8e1148bbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.015452 seconds  code(4) message(Build asset version error: packages/com.unity.xr.management/package.json in SourceAssetDB has modification time of '2021-10-21T17:44:28Z' while content on disk has modification time of '0001-01-01T00:00:00Z')
+  ERROR: Build asset version error: packages/com.unity.xr.management/package.json in SourceAssetDB has modification time of '2021-10-21T17:44:28Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.019315 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.276985 seconds.
+  path: Packages/com.unity.xr.management/Editor/Unity.XR.Management.Editor.asmdef
+  artifactKey: Guid(f9fe0089ec81f4079af78eb2287a6163) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.xr.management/Editor/Unity.XR.Management.Editor.asmdef using Guid(f9fe0089ec81f4079af78eb2287a6163) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.002784 seconds  code(4) message(Build asset version error: packages/com.unity.xr.management/editor/unity.xr.management.editor.asmdef in SourceAssetDB has modification time of '2021-10-21T17:44:28Z' while content on disk has modification time of '0001-01-01T00:00:00Z')
+  ERROR: Build asset version error: packages/com.unity.xr.management/editor/unity.xr.management.editor.asmdef in SourceAssetDB has modification time of '2021-10-21T17:44:28Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.006600 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
